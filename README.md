@@ -1,6 +1,6 @@
 # Responsive Hospital Management Dashboard - Flutter
 
- Responsive Dashboard in Flutter it works perfectly on the Web, Tablet also on both Android and iOS phones
+ Responsive dashboard in Flutter it works perfectly on the Web, Tablet also on both Android and iOS phones
 
 # Web
 
