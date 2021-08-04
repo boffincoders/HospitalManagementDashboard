@@ -1,16 +1,33 @@
-# hospital_dashboard
+# Responsive Hospital Management Dashboard - Flutter
 
-A new Flutter project.
+ Responsive Dashboard in Flutter it works perfectly on the Web, Tablet also on both Android and iOS phones
+
+# Web
+
+<img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/home.png?raw=true"  height="420" />  <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/home1.png?raw=true" height="420" /> <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/home2.png?raw=true"  height="420" />
+
+# Tablet
+
+<img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/tablet.png?raw=true"  height="420" />  <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/tablet1.png?raw=true" height="420" /> <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/tablet2.png?raw=true"  height="420" />
+
+# Phone
+
+<img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/mobile.png?raw=true"  height="420" />  <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/mobile1.png?raw=true" height="420" /> <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/mobile2.png?raw=true"  height="420" /> <img src="https://github.com/boffincoders/HospitalManagementDashboard/blob/master/screens/mobile3.png?raw=true"  height="420" />
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+  - Fetch latest source code from master branch.
+ 
+ ```
+ git clone https://github.com/boffincoders/HospitalManagementDashboard.git
+ ```  
+ - Run the app with Android Studio or Visual Studio. Or the command line.
+ 
+ ```
+ flutter pub get
+ ```
+ ```
+ flutter run
+ ```
+ UI available at https://demo.dashboardpack.com/hospital-html/index.html
